@@ -1,0 +1,19 @@
+.gallery_div{
+    background-color: blueviolet
+}
+.gallery_inner_div{
+    margin: 90px;
+    background-color: cadetblue;
+}
+.fx{
+    flex:50%;
+}
+.df{
+    display:flex;
+}
+.w100{
+    width: 100%;
+}
+.h100{
+    height: 100%;
+}
